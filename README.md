@@ -1,3 +1,3 @@
 # Data-Science-Fundamentals-in-R
 
-Main notebook: `Main.ipynb'
+Main notebook: ``Main.ipynb``
